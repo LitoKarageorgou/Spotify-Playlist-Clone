@@ -33,7 +33,7 @@ These files were provided as the design specification for the project:
 
 ## 🚀 Live Demo
 
-[🔗 View Live Demo](https://spotify-playlist-clone.netlify.app)
+[🔗 View Live Demo](spotify-playlist-clone-project.netlify.app)
 
 
 ## 📚 What I Learned
