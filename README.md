@@ -8,7 +8,7 @@ The goal of this project was to recreate a static version of a Spotify-like UI b
 
 No JavaScript was used — the focus was on visual accuracy and layout structure.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies & Tools Used
 
 - HTML5
 - CSS3
@@ -39,7 +39,7 @@ These files were provided as the design specification for the project:
 ## 📚 What I Learned
 
 - Translating visual designs into a clean HTML structure
-- Styling complex layouts using Flexbox and Grid
+- Styling complex layouts using Flexbox
 - Working with external assets like icons and web fonts
 - Using hover effects and sticky positioning effectively
 
