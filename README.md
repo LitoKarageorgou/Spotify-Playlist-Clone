@@ -12,7 +12,7 @@ No JavaScript was used — the focus was on visual accuracy and layout structure
 
 - HTML5
 - CSS3
-- Flexbox & Grid
+- Flexbox
 - Google Fonts (Roboto)
 - Material Icons
 
