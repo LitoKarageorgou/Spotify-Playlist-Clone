@@ -34,5 +34,6 @@ These files were provided as the design specification for the project:
 ## 👩‍💻 Author
 
 **[Lito Karageorgou]** – Junior Front-End Developer 
+
 📫 Contact: [lito.karageorgou@yahoo.com]  
 🔗 GitHub: [https://github.com/LitoKarageorgou?tab=repositories]
